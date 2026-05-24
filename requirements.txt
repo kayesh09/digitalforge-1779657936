@@ -1,0 +1,13 @@
+Flask
+Flask-Login
+Flask-Mail
+Flask-Migrate
+Flask-SQLAlchemy
+Flask-WTF
+SQLAlchemy
+WTForms
+eth-account
+gunicorn
+python-dotenv
+requests
+web3
